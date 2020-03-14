@@ -2,10 +2,13 @@
 
 <div class="body">
     <main role="main">
+        <div>
+            <h1>taxo</h1>
         <h1>{{ .Title }}</h1>
         {{ range .Pages }}
             {{ .Render "summary" }}
         {{ end }}
+        </div>
     </main>
 </div>
 

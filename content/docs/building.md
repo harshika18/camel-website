@@ -1,5 +1,5 @@
 ---
-title: "Buildings"
+title: "Building"
 ---
 
 ## Building Camel from Source
